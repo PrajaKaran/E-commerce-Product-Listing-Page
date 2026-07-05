@@ -38,3 +38,7 @@ The application uses modern CSS techniques to adapt to any screen size:
 1. Ensure you have Node.js installed.
 2. Run `npm install` to install dependencies.
 3. Run `npm run dev` to start the development server.
+
+![image](https://github.com/PrajaKaran/E-commerce-Product-Listing-Page/blob/master/Screenshot%202026-07-05%20094623.png?raw=true)
+![image](https://github.com/PrajaKaran/E-commerce-Product-Listing-Page/blob/master/Screenshot%202026-07-05%20094633.png?raw=true)
+![image](https://github.com/PrajaKaran/E-commerce-Product-Listing-Page/blob/master/Screenshot%202026-07-05%20094640.png?raw=true)
